@@ -1,6 +1,9 @@
 Analyze A/B Test Results
+<p>
 This project was completed through Udacity's Data Analyst Nanodegree certification.
+<p>
 Overview
+<p>
 The project conducted A/B testing of user conversions on an old and new webpage.
 Procedure:
 •	Read data into a pandas Dataframe
